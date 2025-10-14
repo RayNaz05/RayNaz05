@@ -28,8 +28,6 @@
 
 ### 🧩 Academic Projects  
 
-**🕹️ Dungeon Crawler (RISC-V Assembly)**  
-Real-time game engine with keyboard and timer interrupts; implemented collision, UI, and state management in assembly.  
 
 **🧭 A* Pathfinding Visualizer (RISC-V Assembly)**  
 Optimized data flow and search logic to visualize shortest-path algorithms using GLIR graphics routines.  
@@ -52,7 +50,7 @@ Built with **Firebase**, **QR code scanning**, and multi-role authentication for
 
 ---
 
-### ⚡ Fun stuff  
+### ⚡ Hobbies 
 - 🧩 Solving programming problems (LeetCode, UVa)  
 - 🎬 Watching tech talks & movies  
 - ⚽ Playing football  
