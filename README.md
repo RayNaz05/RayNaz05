@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**RayNaz05/RayNaz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hey there, I'm Rayhan Nazeel  
+# 👋 Hey there, I'm Rayhan Nazeel  
 
 🎓 Computing Science (Honors) student at the **University of Alberta**  
 💡 Interested in **systems programming, algorithms, and applied machine learning**  
@@ -70,11 +62,3 @@ Built with **Firebase**, **QR code scanning**, and multi-role authentication for
 - ⚽ Playing football  
 
 > “Write code that others can read, and systems that others can trust.”
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
