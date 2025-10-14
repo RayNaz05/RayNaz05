@@ -7,7 +7,7 @@
 ---
 
 ### 📫 How to reach me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/rayhan-nazeel-37195930b)
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:YOUR@ualberta.ca)
 
 ---
