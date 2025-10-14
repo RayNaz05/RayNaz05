@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Rayhan Nazeel  
 
-🎓 Computing Science (Honors) student at the **University of Alberta**  
+🎓 Computing Science student at the **University of Alberta**  
 💡 Interested in **systems programming, algorithms, and applied machine learning**  
 🧩 Enjoy building efficient, low-level projects that balance performance and clarity  
 
