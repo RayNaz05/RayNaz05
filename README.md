@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rayhan Nazeel  
+<h1 align="center"># 👋 Hey there, I'm Rayhan Nazeel</h1>
 
 🎓 Computing Science student at the **University of Alberta**  
 💡 Interested in **systems programming, algorithms, and applied machine learning**  
