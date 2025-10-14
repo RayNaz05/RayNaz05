@@ -1,4 +1,4 @@
-<h1 align="center"># 👋 Hey there, I'm Rayhan Nazeel</h1>
+<h1 align="center">👋 Hey there, I'm Rayhan Nazeel</h1>
 
 🎓 Computing Science student at the **University of Alberta**  
 💡 Interested in **systems programming, algorithms, and applied machine learning**  
@@ -51,5 +51,3 @@ Built with **Firebase**, **QR code scanning**, and multi-role authentication for
 - 🧩 Solving Leetcode problems   
 - 🎬 Watching tech talks & movies  
 - ⚽ Playing football  
-
-> “Write code that others can read, and systems that others can trust.”
