@@ -44,12 +44,6 @@ Built with **Firebase**, **QR code scanning**, and multi-role authentication for
 
 ---
 
-### 📊 GitHub Stats  
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhannazeel&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhannazeel&layout=compact&theme=github_dark)
-
----
-
 ### ⚡ Hobbies 
 - 🧩 Solving Leetcode problems   
 - 🎬 Watching tech talks & movies  
