@@ -51,7 +51,7 @@ Built with **Firebase**, **QR code scanning**, and multi-role authentication for
 ---
 
 ### ⚡ Hobbies 
-- 🧩 Solving programming problems (LeetCode, UVa)  
+- 🧩 Solving Leetcode problems   
 - 🎬 Watching tech talks & movies  
 - ⚽ Playing football  
 
