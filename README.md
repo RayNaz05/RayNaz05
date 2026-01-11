@@ -38,10 +38,7 @@ Optimized data flow and search logic to visualize shortest-path algorithms using
 **💡 CPU Ray Tracer (C)**  
 Software ray tracer rendering 3D scenes with shading and reflection; focused on performance efficiency and clean architecture.  
 
----
-
-### 🧑‍💻 Current Project  
-**CMPUT 301 — Android Lottery System App**  
+**Android Lottery System App**  
 Developing a fair event registration system using a lottery mechanism.  
 Built with **Firebase**, **QR code scanning**, and multi-role authentication for entrants, organizers, and admins.  
 
